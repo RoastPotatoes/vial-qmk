@@ -2,9 +2,6 @@
 MCU = STM32F401
 BOARD = BLACKPILL_STM32_F401
 
-# Via/VIAL
-VIA_ENABLE = yes
-VIAL_ENABLE = yes
 
 # Bootloader selection
 BOOTLOADER = stm32-dfu
